@@ -1,0 +1,63 @@
+body {
+  font-family: sans-serif;
+  font-size: 30px;
+  background-color: #9997be;
+}
+
+header {
+  background-color: #5d6fdf;
+}
+
+ul {
+  text-align: center;
+  margin-bottom: -40px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+
+.nav {
+  display: inline;
+}
+
+nav {
+  background-color: #c0c2e9;
+  width: 100%;
+}
+
+img {
+  width: 60vw;
+  height: 30vh;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  background-color: #b47cff;
+  margin-top: 50px;
+}
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 80%;
+  margin-bottom: 2rem;
+}
+
+.peliculas {
+  width: 50vw;
+  height: 50vh;
+  border-radius: 5%;
+  border: 3px solid red;
+}
